@@ -13,4 +13,5 @@ bash c0rs3r.sh https://www.example.com
 [6] Origin domain extension not validated vulnerability  
 [7] Advanced Bypassing using special characters + encoded
 
+#  
 Thanks to [kleiton0x00](https://github.com/kleiton0x00) for sharing this awesome [Cheatsheet](https://github.com/kleiton0x00/CORS-one-liner)
