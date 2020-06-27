@@ -2,7 +2,8 @@
 Advanced Multi CORS-Misconfiguration Checker
 
 # Usage  
-bash c0rs3r.sh https://www.example.com
+bash c0rs3r.sh https://www.example.com  
+https://youtu.be/TGsXcNxrmXc
 
 # Features  
 [1] Basic Origin Reflection payload  
